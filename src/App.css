@@ -1,0 +1,16 @@
+
+.nav
+{
+  background-color: #282c34;
+  text-decoration: none;
+  color: aliceblue;
+  display: flex;
+  justify-content: space-around;
+}
+.nav.li{
+  text-decoration: none;
+  text-transform: capitalize;
+  list-style: none;
+
+}
+
